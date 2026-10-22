@@ -1,40 +1,63 @@
-# Hi there 👋, I'm Vineet Chaurasiya
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Vineet%20Chaurasiya&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20Building%20for%20the%20Web&descAlignY=58&descSize=17" width="100%" alt="Vineet Chaurasiya profile banner" />
+  <br />
+  <a href="https://leetcode.com/u/vineetxx0/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" /></a>
+  <img src="https://komarev.com/ghpvc/?username=chaurasiyaa&style=for-the-badge&color=2563EB" alt="Profile views" />
+</div>
 
-🚀 Aspiring Software Engineer | Building web projects and solving problems
+## 👋 About Me
 
-I enjoy turning ideas into simple, interactive web experiences. I'm currently focusing on strengthening my software engineering fundamentals and building projects with **HTML, CSS, and JavaScript**.
+I’m an aspiring software engineer who enjoys building small, interactive web projects and solving problems. I’m currently strengthening my frontend fundamentals with **HTML, CSS, and JavaScript**.
 
-## 🧑‍💻 About Me
-
-- 🌱 Currently learning and growing as a software engineer
+- 🌱 Learning by building and improving projects
 - 💻 Interested in frontend and web development
-- 🛠️ Building small projects to practise and improve
+- 🎯 Focusing on steady growth as a software engineer
 
 ## 🛠️ Tech Stack
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+</div>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- [Sneaker Website](https://github.com/chaurasiyaa/sneaker-website) — A simple website built with HTML, CSS, and JavaScript.
-- [Tic-Tac-Toe](https://github.com/chaurasiyaa/TIC-TAC-TOE-) — A Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
-- [Calculator](https://github.com/chaurasiyaa/calculator) — A calculator built with HTML, CSS, and JavaScript.
-
-## 🔗 Coding Profile
-
-- [LeetCode](https://leetcode.com/u/vineetxx0/)
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>👟 Sneaker Website</h3>
+      <p>A simple web experience built with HTML, CSS, and JavaScript.</p>
+      <a href="https://github.com/chaurasiyaa/sneaker-website">View project ↗</a>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎮 Tic-Tac-Toe</h3>
+      <p>A browser-based Tic-Tac-Toe game made with web fundamentals.</p>
+      <a href="https://github.com/chaurasiyaa/TIC-TAC-TOE-">View project ↗</a>
+    </td>
+    <td width="33%" align="center">
+      <h3>🧮 Calculator</h3>
+      <p>A lightweight calculator built with HTML, CSS, and JavaScript.</p>
+      <a href="https://github.com/chaurasiyaa/calculator">View project ↗</a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
-<p>
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaurasiyaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Vineet's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiyaa&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+</div>
 
----
+## 🧠 LeetCode Stats
 
-Thanks for stopping by! Feel free to explore my repositories. 👋
+<div align="center">
+  <a href="https://leetcode.com/u/vineetxx0/">
+    <img src="https://leetcard.jacoblin.cool/vineetxx0?theme=dark" alt="Vineet's LeetCode stats" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" width="100%" alt="Decorative blue wave footer" />
+</div>
