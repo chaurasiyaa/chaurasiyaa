@@ -10,7 +10,7 @@
 I’m an aspiring software engineer who enjoys building small, interactive web projects and solving problems. I’m currently strengthening my frontend fundamentals with **HTML, CSS, and JavaScript**.
 
 - 🌱 Learning by building and improving projects
-- 💻 Interested in frontend and web development
+- 💻 Interested in web development
 - 🎯 Focusing on steady growth as a software engineer
 
 ## 🛠️ Tech Stack
